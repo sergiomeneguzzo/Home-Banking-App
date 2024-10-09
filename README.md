@@ -24,6 +24,7 @@ This project aims to recreate the functionality of a Home Banking system, where 
 4. **Transaction History**: Track your expenses and transaction history.
 
 ## Project Structure
+```
 └── src
     └── app
         ├── components
